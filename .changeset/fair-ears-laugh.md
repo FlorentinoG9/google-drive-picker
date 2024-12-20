@@ -2,4 +2,4 @@
 "google-drive-picker": patch
 ---
 
-publish
+changeset init
