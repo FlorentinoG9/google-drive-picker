@@ -1,10 +1,19 @@
 {
-  "name": "@florentinog9/google-drive-picker",
+  "name": "google-drive-picker",
   "version": "0.0.3",
+  "private": false,
   "description": "Google drive picker for react",
   "author": "FlorentinoG9 <https://github.com/FlorentinoG9>",
   "license": "MIT",
-  "repository": "https://github.com/FlorentinoG9/google-drive-picker",
+  "access": "public",
+  "homepage": "https://github.com/FlorentinoG9/google-drive-picker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlorentinoG9/google-drive-picker"
+  },
+  "bugs": {
+    "url": "https://github.com/FlorentinoG9/google-drive-picker/issues"
+  },
   "keywords": [
     "react",
     "google",
