@@ -1,5 +1,11 @@
 # google-drive-picker
 
+## 0.0.5
+
+### Patch Changes
+
+- 96eeb8a: readme
+
 ## 0.0.4
 
 ### Patch Changes
