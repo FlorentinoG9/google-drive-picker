@@ -1,5 +1,11 @@
 # google-drive-picker
 
+## 0.0.4
+
+### Patch Changes
+
+- 3b77aef: chore package public
+
 ## 0.0.3
 
 ### Patch Changes
