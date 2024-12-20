@@ -1,0 +1,11 @@
+node_modules
+.env*
+dist
+.DS_Store
+.changeset
+.vscode
+.eslintrc.json
+.prettierrc.json
+.tsconfig.json
+tsup.config.ts
+eslint.config.mjs
